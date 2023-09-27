@@ -1,2 +1,2 @@
 # Placeholder
- An economy bot made by the developers of MeepleBot.
+An economy bot made by the developers of MeepleBot
